@@ -2,16 +2,20 @@
 
 ## Django (Backend) + React (Frontend)
 
-React App
+## React App
+
 ![](./img/React_App.png)
 
-Api Root – Django REST framework
+## Api Root – Django REST framework
+
 ![](./img/Api_Root.png)
 
-Swagger
+## Swagger
+
 ![](./img/Swagger.png)
 
-Select Pokemon to change - Django site admin
+## Select Pokemon to change - Django site admin
+
 ![](./img/Django_admin.png)
 
 ## You can found more details here:
