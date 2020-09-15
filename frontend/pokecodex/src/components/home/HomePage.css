@@ -1,0 +1,8 @@
+table {
+  margin: auto;
+}
+
+.pagination {
+  margin: 20px auto;
+  display: inline-block;
+}
