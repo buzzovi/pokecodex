@@ -1,0 +1,10 @@
+pytest==5.4.2
+Django==3.0.6
+django-cors-headers==3.3.0
+django-filter==2.2.0
+python-decouple==3.3
+djangorestframework==3.11.0
+PyYAML==5.3.1
+requests==2.23.0
+uritemplate==3.0.1
+wfastcgi==3.0.0
